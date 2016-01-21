@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryTail", "TryTail\TryTail.csproj", "{D382CA91-C81F-44FD-BA80-061DD921DCDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D382CA91-C81F-44FD-BA80-061DD921DCDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D382CA91-C81F-44FD-BA80-061DD921DCDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D382CA91-C81F-44FD-BA80-061DD921DCDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D382CA91-C81F-44FD-BA80-061DD921DCDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
